@@ -22,4 +22,8 @@ function alphabetPosition(text) {
   return result.join(" ");
 }
 
+<<<<<<< HEAD
 console.log(alphabetPosition("The sunset sets at five o' clock."));
+=======
+console.log(alphabetPosition("The sunset sets at five o' clock."));
+>>>>>>> 32756e675f95f700c32a5debe8c4dc040a89d46b
